@@ -7,4 +7,4 @@ ISE introduces a *Co-Player Mode, allowing children to engage in multiplayer int
 
 With fully customizable experiences, real-time progress monitoring, and a reward-based learning system, ISE enhances social, cognitive, and practical life skills for children with ASD and ID, offering a groundbreaking solution to challenges in traditional education.
 
-# [Watch the tutorial on YouTube](https://youtu.be/65HA3MgEZlA)
+# [Watch on YouTube](https://youtu.be/65HA3MgEZlA)
